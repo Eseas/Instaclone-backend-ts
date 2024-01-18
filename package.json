@@ -1,0 +1,16 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eseas/Instaclone-backend.git/issues"
+  },
+  "homepage": "https://github.com/Eseas/Instaclone-backend.git#readme"
+}
