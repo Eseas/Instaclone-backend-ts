@@ -4,10 +4,10 @@ Instaclone Backend.
 
 ## User:
 
-- [ ] Create Account
-- [ ] See Profile
-- [ ] Login
-- [ ] Edit Profile
+- [O] Create Account
+- [O] See Profile
+- [O] Login
+- [O] Edit Profile
 - [ ] Follow User
 - [ ] Unfollow User
 - [ ] Change Avata (Image Upload)
