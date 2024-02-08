@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "outDir": "./built",
+        "allowJs": true,
+        "module": "CommonJS",
+        "target": "ES5",
+        //"strict": true,
+        //"forceConsistentCasingInFileNames": true,
+    },
+    "include": ["./src/**/*"]
+}
